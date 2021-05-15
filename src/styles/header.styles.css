@@ -1,0 +1,13 @@
+.header-style{
+    width:25%;
+    height:20vh;
+    border: 1px solid black;
+    margin: 2% auto;
+    padding:2%;
+    background-color:aliceblue;
+}
+
+img{
+    height:100%;
+    width: 100%;
+}

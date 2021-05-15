@@ -1,0 +1,20 @@
+.button-wrapper{
+    width:25%;
+    display: flex;
+    justify-content:space-between;
+    margin: 0 auto;
+}
+
+.button-wrapper > p{
+    background-color: white;
+    width:30%;
+    text-align:center;
+    border-radius:20px;
+    cursor: pointer;
+}
+
+.cblue{
+    background-color:blue !important;
+    color:white !important;
+   
+}
